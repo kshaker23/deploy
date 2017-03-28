@@ -15,7 +15,7 @@
     "multer": "^1.3.0",
     "static-favicon": "~1.0.0"
 
-}
+},
     "_id": "heroku_44cvmcvt.miniproject",
     "user": "miniproject",
     "db": "heroku_44cvmcvt",
